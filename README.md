@@ -16,11 +16,12 @@
 - http://tympanus.net/codrops/css_reference/
 - https://developer.mozilla.org/en-US/docs/Web/CSS
 
-### Front-end Theorists
+### Front-end Theorists & Engineers
 
 - http://lea.verou.me/
 - http://sarasoueidan.com/
 - http://chriscoyier.net/
+- http://www.addyosmani.com/
 
 ### Viability
 
